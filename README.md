@@ -7,7 +7,7 @@ This is a small practice repository for learning the GitHub pull request workflo
 This repo is used to practice:
 
 - Making a change on a feature branch
-- Commiting the change
+- Committing the change
 - Opening a pull request
 - Reviewing and merging it
 
